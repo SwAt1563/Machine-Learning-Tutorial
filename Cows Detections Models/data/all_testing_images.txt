@@ -1,0 +1,4 @@
+img_4.bmp img_4_segMap.bmp
+img_7.bmp img_7_segMap.bmp
+img_9.bmp img_9_segMap.bmp
+img_10.bmp img_10_segMap.bmp
