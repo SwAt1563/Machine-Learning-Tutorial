@@ -4,26 +4,26 @@ You can watch the tutorial on [SwAt1563](https://www.youtube.com/watch?v=Y-aaf1x
 
 
 
-# PART 1 NLTK
+## PART 1 NLTK
 1) stopwrods
 2) clean text - punctuation
 3) swear words
 4) roots 
 
-# PART 2 panda
+## PART 2 panda
 1) panda - info - percentage
 2) split data
 3) show information gain
 4) plot information gain
 
-# PART 3 bias feature
+## PART 3 bias feature
 1) bias feature
 
-# PART 4 CountVectorizer
+## PART 4 CountVectorizer
 1) naive bias MultionmialNB - CountVectorizer
 
 
-# PART 5 WITH JUST TEXT FEATURES
+## PART 5 WITH JUST TEXT FEATURES
 1) preprocessing 
 2) decision tree
 3) network MLP
@@ -31,14 +31,14 @@ You can watch the tutorial on [SwAt1563](https://www.youtube.com/watch?v=Y-aaf1x
 5) show information gain
 6) accuracy scores - confusion matrix
 
-# PART 6 WITH JUST FILE FEATURES
+## PART 6 WITH JUST FILE FEATURES
 1) decision tree
 2) network MLP
 3) naive bias Gaussian
 4) show information gain
 5) accuracy scores - confusion matrix
 
-# Cows Detection Models
+## Cows Detection Models
 1) Load Images
 2) Features Vector Extraction 
 3) Convert Images to Patches 
